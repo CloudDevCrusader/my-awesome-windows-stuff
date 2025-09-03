@@ -1,0 +1,2765 @@
+{
+  "export_version": 3,
+  "packages": [
+    {
+      "Id": "7zip",
+      "Name": "7zip",
+      "Version": "25.01",
+      "Source": "main",
+      "ManagerName": "Scoop"
+    },
+    {
+      "Id": "9NQ07FG50H2Q",
+      "Name": "BeWidgets",
+      "Version": "1.0.5.0",
+      "Source": "msstore",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "9PLQFDG8HH9D",
+      "Name": "AutoHotkey v2 Store Edition",
+      "Version": "2.0.18.0",
+      "Source": "msstore",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "AI-Shifu.ChatALL",
+      "Name": "ChatALL",
+      "Version": "1.85.110",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "AIMP.AIMP",
+      "Name": "AIMP",
+      "Version": "5.40",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Ablaze.Floorp",
+      "Name": "Ablaze Floorp",
+      "Version": "142.0.1@12.1.2",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Adobe.Acrobat.Reader.64-bit",
+      "Name": "Adobe Acrobat Reader (64-bit)",
+      "Version": "25.001.20630",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Adobe.CreativeCloud",
+      "Name": "Adobe Creative Cloud",
+      "Version": "6.7.0.278",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "AirDroid.AirDroid",
+      "Name": "AirDroid",
+      "Version": "3.8.0.4",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "AmN.yasb",
+      "Name": "yasb",
+      "Version": "1.8.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "AndreasWascher.RepoZ",
+      "Name": "RepoZ",
+      "Version": "5.5",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Anysphere.Cursor",
+      "Name": "Cursor",
+      "Version": "1.5.9",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "AppWork.JDownloader",
+      "Name": "JDownloader 2",
+      "Version": "2.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Appest.TickTick",
+      "Name": "TickTick",
+      "Version": "6.3.1.2",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "Updates": {
+        "UpdatesIgnored": true,
+        "IgnoredVersion": "*"
+      }
+    },
+    {
+      "Id": "Apple.AppleMobileDeviceSupport",
+      "Name": "Apple Mobile Device Support",
+      "Version": "16.5.0.12",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Apple.Bonjour",
+      "Name": "Bonjour",
+      "Version": "3.1.0.1",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Apple.iTunes",
+      "Name": "iTunes",
+      "Version": "12.13.7.1",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Auslogics.DuplicateFileFinder",
+      "Name": "Auslogics Duplicate File Finder",
+      "Version": "11.0.1.2",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Bitwarden.Bitwarden",
+      "Name": "Bitwarden",
+      "Version": "2025.8.2",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Bitwarden.CLI",
+      "Name": "Bitwarden CLI",
+      "Version": "2025.8.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "BleachBit.BleachBit",
+      "Name": "BleachBit",
+      "Version": "5.0.0.2936",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Bopsoft.Listary",
+      "Name": "Listary",
+      "Version": "6.3",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Brave.Brave",
+      "Name": "Brave",
+      "Version": "139.1.81.137",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Canonical.Ubuntu",
+      "Name": "Ubuntu",
+      "Version": "2404.1.68.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Chocolatey.ChocolateyGUI",
+      "Name": "Chocolatey GUI",
+      "Version": "2.1.1.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Clementine.Clementine",
+      "Name": "Clementine",
+      "Version": "\u003E 1.4.1",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Cmder",
+      "Name": "Cmder",
+      "Version": "1.3.25",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "CodeSector.TeraCopy",
+      "Name": "TeraCopy",
+      "Version": "3.17",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "CodecGuide.K-LiteCodecPack.Standard",
+      "Name": "K-Lite Codec Pack Standard",
+      "Version": "19.1.5",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Codeium.Windsurf",
+      "Name": "Windsurf",
+      "Version": "1.12.3",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "ConsoleZ",
+      "Name": "ConsoleZ",
+      "Version": "1.19.0.19104",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "CoreyButler.NVMforWindows",
+      "Name": "NVM for Windows",
+      "Version": "1.2.2",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "CrystalRich.USBSafelyRemove",
+      "Name": "USB Safely Remove",
+      "Version": "7.1.2.1327",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Curiosity.Curiosity",
+      "Name": "Curiosity",
+      "Version": "25.3.57041",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "DBAdminX.Diff",
+      "Name": "Diff",
+      "Version": "1.0.1",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Datronicsoft.SpacedeskDriver.Server",
+      "Name": "spacedesk Windows DRIVER",
+      "Version": "2.2.04.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "DavidRios.Remindr",
+      "Name": "Remindr",
+      "Version": "2.2.5",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "DeaDBeeF.DeaDBeeF",
+      "Name": "DeaDBeeF",
+      "Version": "1.10.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Dextronet.MindCollected",
+      "Name": "Mind Collected",
+      "Version": "1.4",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Discord.Discord",
+      "Name": "Discord",
+      "Version": "1.0.9205",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "DiskInternals.LinuxReader",
+      "Name": "DiskInternals Linux Reader",
+      "Version": "4.24.1",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Docker.DockerDesktop",
+      "Name": "Docker Desktop",
+      "Version": "4.45.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "DotNet4.6.1",
+      "Name": "DotNet4.6.1",
+      "Version": "4.6.1055.20170308",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "DuongDieuPhap.ImageGlass",
+      "Name": "ImageGlass",
+      "Version": "9.3.2.520",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "EEO.ClassIn",
+      "Name": "ClassIn",
+      "Version": "6.0.3.2341",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "EdrawSoft.MindMaster",
+      "Name": "MindMaster",
+      "Version": "12.3.19.1290",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "ElectronicArts.EADesktop",
+      "Name": "EA app",
+      "Version": "13.539.0.6052",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "FilesCommunity.FilesPreview",
+      "Name": "Files - Preview",
+      "Version": "3.9.82.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "FinalWire.AIDA64.Business",
+      "Name": "AIDA64 Business",
+      "Version": "7.70",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Flow-Launcher.Flow-Launcher",
+      "Name": "Flow Launcher",
+      "Version": "1.20.2",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "GitHub.GitHubDesktop",
+      "Name": "GitHub Desktop",
+      "Version": "3.5.2",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "GiulioSorrentino.numeronesoeminformations",
+      "Name": "numerone\u0027s oem information",
+      "Version": "1.2",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "GnuPG.GnuPG",
+      "Name": "GNU Privacy Guard",
+      "Version": "2.4.8",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "GnuPG.Gpg4win",
+      "Name": "Gpg4win",
+      "Version": "4.4.1",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Google.AndroidStudio",
+      "Name": "Android Studio",
+      "Version": "2025.1",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Google.GoogleDrive",
+      "Name": "Google Drive",
+      "Version": "113.0.1.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Google.PlayGames.Beta",
+      "Name": "Google Play Games beta",
+      "Version": "25.8.307.1",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "HARMAN.AdobeAIR",
+      "Name": "Adobe AIR",
+      "Version": "51.2.1.5",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Heavrnl.NexusTerminal",
+      "Name": "Nexus Terminal",
+      "Version": "0.8.1",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "HeroicGamesLauncher.HeroicGamesLauncher",
+      "Name": "Heroic",
+      "Version": "2.18.1",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "IObit.IObitSysInfo",
+      "Name": "IObit SysInfo",
+      "Version": "1.0.0.16",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Insomnia.Insomnia",
+      "Name": "Insomnia",
+      "Version": "11.5.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Jackett.Jackett",
+      "Name": "Jackett",
+      "Version": "0.22.2390",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Jan.Jan",
+      "Name": "Jan",
+      "Version": "0.6.9",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Jasmine.Nova",
+      "Name": "Nova",
+      "Version": "1.7.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "JohnMacFarlane.Pandoc",
+      "Name": "Pandoc",
+      "Version": "3.7.0.2",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "KB2919355",
+      "Name": "KB2919355",
+      "Version": "1.0.20160915",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "KB2919442",
+      "Name": "KB2919442",
+      "Version": "1.0.20160915",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "KB2999226",
+      "Name": "KB2999226",
+      "Version": "1.0.20181019",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "KB3033929",
+      "Name": "KB3033929",
+      "Version": "1.0.5",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "KB3035131",
+      "Name": "KB3035131",
+      "Version": "1.0.3",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "KB3063858",
+      "Name": "KB3063858",
+      "Version": "1.0.0",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "KernelWanderers.OCSysInfo",
+      "Name": "OCSysInfo",
+      "Version": "1.1.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Krisp.Krisp",
+      "Name": "Krisp",
+      "Version": "3.0.4.1",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Lenovo.ServiceBridge",
+      "Name": "Lenovo Service Bridge",
+      "Version": "5.0.2.18",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Libretro.RetroArch",
+      "Name": "RetroArch",
+      "Version": "1.21.0.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Logitech.OptionsPlus",
+      "Name": "Logi Options\u002B",
+      "Version": "1.94.762104",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Logitech.UnifyingSoftware",
+      "Name": "Logitech Unifying Software",
+      "Version": "2.52.33",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "M2Team.NanaZip",
+      "Name": "NanaZip",
+      "Version": "5.0.1263.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "MiTeC.InfoBar",
+      "Name": "MiTeC InfoBar",
+      "Version": "4.6.2",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "MicaForEveryone.MicaForEveryone",
+      "Name": "Mica For Everyone",
+      "Version": "2.0.4.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.AppInstaller",
+      "Name": "App Installer",
+      "Version": "1.26.430.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.DotNet.AspNetCore.8",
+      "Name": "Microsoft ASP.NET Core Runtime 8.0",
+      "Version": "8.0.19",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.DotNet.AspNetCore.9",
+      "Name": "Microsoft ASP.NET Core Runtime 9.0",
+      "Version": "9.0.8",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.DotNet.DesktopRuntime.6",
+      "Name": "Microsoft .NET Windows Desktop Runtime 6.0",
+      "Version": "6.0.36",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.DotNet.DesktopRuntime.8",
+      "Name": "Microsoft .NET Windows Desktop Runtime 8.0",
+      "Version": "8.0.19",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.DotNet.DesktopRuntime.9",
+      "Name": "Microsoft .NET Windows Desktop Runtime 9.0",
+      "Version": "9.0.8",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.DotNet.Runtime.8",
+      "Name": "Microsoft .NET Runtime 8.0",
+      "Version": "8.0.19",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.DotNet.Runtime.9",
+      "Name": "Microsoft .NET Runtime 9.0",
+      "Version": "9.0.8",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.DotNet.SDK.3_1",
+      "Name": "Microsoft .NET SDK 3.1",
+      "Version": "3.1.426",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.Edge",
+      "Name": "Microsoft Edge",
+      "Version": "139.0.3405.125",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.OneDrive",
+      "Name": "Microsoft OneDrive",
+      "Version": "25.149.0803.0003",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.PowerShell",
+      "Name": "PowerShell",
+      "Version": "7.5.2.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.PowerToys",
+      "Name": "PowerToys",
+      "Version": "0.93.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.UI.Xaml.2.7",
+      "Name": "Microsoft.UI.Xaml",
+      "Version": "7.2208.15002.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.UI.Xaml.2.8",
+      "Name": "Microsoft.UI.Xaml",
+      "Version": "8.2501.31001.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.VCLibs.Desktop.14",
+      "Name": "Microsoft Visual C\u002B\u002B 2015 UWP Desktop Runtime Package",
+      "Version": "14.0.33728.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.VCRedist.2005.x86",
+      "Name": "Microsoft Visual C\u002B\u002B 2005 Redistributable",
+      "Version": "8.0.61001",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.VCRedist.2008.x64",
+      "Name": "Microsoft Visual C\u002B\u002B 2008 Redistributable - x64",
+      "Version": "9.0.30729.6161",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.VCRedist.2008.x86",
+      "Name": "Microsoft Visual C\u002B\u002B 2008 Redistributable - x86",
+      "Version": "9.0.30729.6161",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.VCRedist.2010.x64",
+      "Name": "Microsoft Visual C\u002B\u002B 2010 x64 Redistributable",
+      "Version": "10.0.40219",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.VCRedist.2010.x86",
+      "Name": "Microsoft Visual C\u002B\u002B 2010 x86 Redistributable",
+      "Version": "10.0.40219",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.VCRedist.2012.x64",
+      "Name": "Microsoft Visual C\u002B\u002B 2012 Redistributable (x64)",
+      "Version": "11.0.61030.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.VCRedist.2012.x86",
+      "Name": "Microsoft Visual C\u002B\u002B 2012 Redistributable (x86)",
+      "Version": "11.0.61030.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.VCRedist.2013.x64",
+      "Name": "Microsoft Visual C\u002B\u002B 2013 Redistributable (x64)",
+      "Version": "12.0.40664.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.VCRedist.2013.x86",
+      "Name": "Microsoft Visual C\u002B\u002B 2013 Redistributable (x86)",
+      "Version": "12.0.40664.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.VCRedist.2015\u002B.x64",
+      "Name": "Microsoft Visual C\u002B\u002B 2015-2022 Redistributable (x64)",
+      "Version": "14.44.35211.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.VCRedist.2015\u002B.x86",
+      "Name": "Microsoft Visual C\u002B\u002B 2015-2022 Redistributable (x86)",
+      "Version": "14.44.35211.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.VisualStudioCode",
+      "Name": "Microsoft Visual Studio Code",
+      "Version": "1.103.2",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.WindowsTerminal",
+      "Name": "Windows Terminal",
+      "Version": "1.23.12371.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.XNARedist",
+      "Name": "Microsoft XNA Framework Redistributable Refresh",
+      "Version": "4.0.30901.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "MilosParipovic.OneCommander",
+      "Name": "OneCommander",
+      "Version": "3.98.2",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "Updates": {
+        "UpdatesIgnored": true,
+        "IgnoredVersion": "*"
+      }
+    },
+    {
+      "Id": "MiniantGit.REAL",
+      "Name": "Reduce Audio Latency",
+      "Version": "0.2.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "ModernFlyouts.ModernFlyouts",
+      "Name": "ModernFlyouts (Preview)",
+      "Version": "0.9.3.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "MusicBrainz.Picard",
+      "Name": "MusicBrainz Picard",
+      "Version": "2.13.3",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "NexusMods.Vortex",
+      "Name": "Vortex",
+      "Version": "1.14.11",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Nicotine\u002B.Nicotine\u002B",
+      "Name": "Nicotine\u002B",
+      "Version": "3.3.10",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Notepad\u002B\u002B.Notepad\u002B\u002B",
+      "Name": "Notepad\u002B\u002B",
+      "Version": "8.8.5",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Notion.Notion",
+      "Name": "Notion",
+      "Version": "4.18.1",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Nvidia.PhysX",
+      "Name": "NVIDIA PhysX System Software",
+      "Version": "9.23.1019",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "OliverSchwendener.ueli",
+      "Name": "ueli",
+      "Version": "9.25.1.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "OneTagger.OneTagger",
+      "Name": "One Tagger",
+      "Version": "Unknown",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "OnionShare.OnionShare",
+      "Name": "OnionShare",
+      "Version": "2.6",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "OpenBoxLab.RaiDrive",
+      "Name": "RaiDrive",
+      "Version": "2023.9.256",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Opera.OperaGX",
+      "Name": "Opera GX Stable",
+      "Version": "121.0.5600.47",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Oracle.JavaRuntimeEnvironment",
+      "Name": "Java 8",
+      "Version": "8.0.4610.11",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Oracle.VirtualBox",
+      "Name": "Oracle VirtualBox",
+      "Version": "7.2.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Ovenoboyo.Moosync",
+      "Name": "Moosync",
+      "Version": "11.0.2",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Overmind.OvermindCLI",
+      "Name": "OvermindCLI",
+      "Version": "1.8.6",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "PeterPawlowski.foobar2000",
+      "Name": "foobar2000",
+      "Version": "2.25",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Pinpoint",
+      "Name": "Pinpoint",
+      "Version": "0.4.9",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "PrivadoNetworksAG.PrivadoVPN",
+      "Name": "PrivadoVPN",
+      "Version": "3.13.0.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "PuTTY.PuTTY",
+      "Name": "PuTTY",
+      "Version": "0.83.0.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "QmmpDevelopmentTeam.qmmp",
+      "Name": "Qt-based Multimedia Player",
+      "Version": "2.2.5",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "RARLab.WinRAR",
+      "Name": "WinRAR",
+      "Version": "7.12.0",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "Updates": {
+        "UpdatesIgnored": true,
+        "IgnoredVersion": "*"
+      }
+    },
+    {
+      "Id": "REALiX.HWiNFO",
+      "Name": "HWiNFO\u00AE",
+      "Version": "8.30",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Rainmeter.Rainmeter",
+      "Name": "Rainmeter",
+      "Version": "4.5.23",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Rambox.Rambox.Community",
+      "Name": "Rambox",
+      "Version": "0.8.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "RamenSoftware.Windhawk",
+      "Name": "Windhawk",
+      "Version": "1.6.1",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "RaspberryPiFoundation.RaspberryPiImager",
+      "Name": "Raspberry Pi Imager",
+      "Version": "1.9.6",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "ReorProject.Reor",
+      "Name": "Reor",
+      "Version": "0.2.31",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "RevoUninstaller.RevoUninstallerPro",
+      "Name": "Revo Uninstaller Pro",
+      "Version": "5.4.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Soulseek.SoulseekQt",
+      "Name": "SoulseekQt",
+      "Version": "2024.2.1",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Spotify.Spotify",
+      "Name": "Spotify",
+      "Version": "1.2.71.421.g794ff5e5",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "SystweakSoftware.DuplicateFilesFixer",
+      "Name": "Duplicate Files Fixer",
+      "Version": "1.2.1.964",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Telegram.TelegramDesktop",
+      "Name": "Telegram Desktop",
+      "Version": "6.0.2",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Terminals.Terminals",
+      "Name": "Terminals",
+      "Version": "4.0.1.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "TheBrowserCompany.Arc",
+      "Name": "Arc",
+      "Version": "1.69.0.325",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "TweakNow.WinSecretPlus",
+      "Name": "TweakNow WinSecret Plus",
+      "Version": "7.1.5",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Ubisoft.Connect",
+      "Name": "Ubisoft Connect",
+      "Version": "167.1.0.12915",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Valve.Steam",
+      "Name": "Steam",
+      "Version": "2.10.91.91",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "VideoLAN.VLC",
+      "Name": "VLC media player",
+      "Version": "3.0.21",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "WACUP.WACUP",
+      "Name": "WACUP Installer",
+      "Version": "1.99.36.22278",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Warp.Warp",
+      "Name": "Warp",
+      "Version": "v0.2025.09.01.20.54.stable_02",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "WebMinds.NetOptimizer",
+      "Name": "NetOptimizerTM",
+      "Version": "6.7.25.819",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "WestWind.MarkdownMonster",
+      "Name": "Markdown Monster",
+      "Version": "3.6.9.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "WinSCP.WinSCP",
+      "Name": "WinSCP",
+      "Version": "6.5.3",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Wind.WindFinancialTerminal",
+      "Name": "Wind Financial Terminal",
+      "Version": "25.6.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "WinsiderSS.SystemInformer",
+      "Name": "System Informer",
+      "Version": "3.2.25099.1530",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "WiseCleaner.WiseCare365",
+      "Name": "Wise Care 365",
+      "Version": "7.2.7.706",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "Updates": {
+        "UpdatesIgnored": true,
+        "IgnoredVersion": "*"
+      }
+    },
+    {
+      "Id": "WiseCleaner.WiseDuplicateFinder",
+      "Name": "Wise Duplicate Finder",
+      "Version": "2.1.8",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "XP89LPCH4KSH03",
+      "Name": "ID3Genius Music Tag Editor",
+      "Version": "3.2.3",
+      "Source": "msstore",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "XP9B10L8591572",
+      "Name": "Nozbe: Tasks \u0026 Projects",
+      "Version": "2025.20.0",
+      "Source": "msstore",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "XP9D25XXG3SV5X",
+      "Name": "Krisp",
+      "Version": "3.4.7",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "XPDM5VSMTKQLBJ",
+      "Name": "Battle.net",
+      "Version": "Unknown",
+      "Source": "msstore",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "XPFFTQ032PTPHF",
+      "Name": "UniGetUI",
+      "Version": "3.3.2",
+      "Source": "msstore",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "advtor",
+      "Name": "Advtor",
+      "Version": "0.3.1.2",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "aemulusmodmanager",
+      "Name": "Aemulusmodmanager",
+      "Version": "6.6.0",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "appium",
+      "Name": "Appium",
+      "Version": "3.0.1",
+      "Source": "npm",
+      "ManagerName": "Npm"
+    },
+    {
+      "Id": "bginfo",
+      "Name": "Bginfo",
+      "Version": "4.33.0",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "calibre.calibre",
+      "Name": "calibre",
+      "Version": "8.9.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "chocolatey",
+      "Name": "Chocolatey",
+      "Version": "2.5.0",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "chocolatey-compatibility.extension",
+      "Name": "Chocolatey Compatibility.extension",
+      "Version": "1.0.0",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "chocolatey-core.extension",
+      "Name": "Chocolatey Core.extension",
+      "Version": "1.4.0",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "chocolatey-dotnetfx.extension",
+      "Name": "Chocolatey Dotnetfx.extension",
+      "Version": "1.0.1",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "chocolatey-misc-helpers.extension",
+      "Name": "Chocolatey Misc Helpers.extension",
+      "Version": "0.0.4",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "chocolatey-windowsupdate.extension",
+      "Name": "Chocolatey Windowsupdate.extension",
+      "Version": "1.0.5",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "chocolateygui",
+      "Name": "Chocolateygui",
+      "Version": "2.1.1",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "contour-terminal.Contour",
+      "Name": "Contour",
+      "Version": "0.6.1.7494",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "corepack",
+      "Name": "Corepack",
+      "Version": "0.34.0",
+      "Source": "npm",
+      "ManagerName": "Npm"
+    },
+    {
+      "Id": "deadbeef",
+      "Name": "Deadbeef",
+      "Version": "1.10.0",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "deadbeef.install",
+      "Name": "Deadbeef",
+      "Version": "1.10.0",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "dotnet",
+      "Name": "Dotnet",
+      "Version": "9.0.8",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "dotnet-8.0-desktopruntime",
+      "Name": "Dotnet 8.0 Desktopruntime",
+      "Version": "8.0.19",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "dotnet-8.0-runtime",
+      "Name": "Dotnet 8.0 Runtime",
+      "Version": "8.0.19",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "dotnet-9.0-runtime",
+      "Name": "Dotnet 9.0 Runtime",
+      "Version": "9.0.8",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "dotnet-runtime",
+      "Name": "Dotnet Runtime",
+      "Version": "9.0.8",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "dotnetcore-3.1-sdk",
+      "Name": "Dotnetcore 3.1 Sdk",
+      "Version": "3.1.426",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "dotnetcore-3.1-sdk-4xx",
+      "Name": "Dotnetcore 3.1 Sdk 4xx",
+      "Version": "3.1.426",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "dotnetcore-sdk",
+      "Name": "Dotnetcore Sdk",
+      "Version": "3.1.426",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "dotnetfx",
+      "Name": "Dotnetfx",
+      "Version": "4.8.0.20220524",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "dremin.RetroBar",
+      "Name": "RetroBar",
+      "Version": "1.20.37",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "ea-app",
+      "Name": "Ea App",
+      "Version": "13.539.0.6052",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "eslint",
+      "Name": "Eslint",
+      "Version": "9.34.0",
+      "Source": "npm",
+      "ManagerName": "Npm"
+    },
+    {
+      "Id": "exiftool",
+      "Name": "Exiftool",
+      "Version": "13.33.0",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "flyingpie.windows-terminal-quake",
+      "Name": "windows-terminal-quake",
+      "Version": "2.0.17",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "gerardog.gsudo",
+      "Name": "gsudo",
+      "Version": "2.6.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "git",
+      "Name": "Git",
+      "Version": "2.51.0",
+      "Source": "main",
+      "ManagerName": "Scoop"
+    },
+    {
+      "Id": "gitbook-editor",
+      "Name": "Gitbook Editor",
+      "Version": "7.0.12",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "github-desktop",
+      "Name": "Github Desktop",
+      "Version": "3.5.0",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "iCloud",
+      "Name": "ICloud",
+      "Version": "7.21.0.23",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "imageglass",
+      "Name": "Imageglass",
+      "Version": "9.3.2.520",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "jackett",
+      "Name": "Jackett",
+      "Version": "0.22.2390",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "kmeleonbrowser.K-Meleon",
+      "Name": "K-Meleon",
+      "Version": "75.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "kodi",
+      "Name": "Kodi",
+      "Version": "0.4.1",
+      "Source": "npm",
+      "ManagerName": "Npm"
+    },
+    {
+      "Id": "microsoft-ui-xaml-2-7",
+      "Name": "Microsoft Ui Xaml 2 7",
+      "Version": "2.7.3",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "microsoft-vclibs-140-00",
+      "Name": "Microsoft Vclibs 140 00",
+      "Version": "14.0.33321",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "min.portable",
+      "Name": "Min",
+      "Version": "1.35.1",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "mo2",
+      "Name": "Mo2",
+      "Version": "2.5.2",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "nomic.gpt4all",
+      "Name": "GPT4All",
+      "Version": "3.10.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "npm",
+      "Name": "Npm",
+      "Version": "10.9.3",
+      "Source": "npm",
+      "ManagerName": "Npm"
+    },
+    {
+      "Id": "oh-my-posh",
+      "Name": "Oh My Posh",
+      "Version": "26.20.1",
+      "Source": "main",
+      "ManagerName": "Scoop"
+    },
+    {
+      "Id": "onionshare",
+      "Name": "Onionshare",
+      "Version": "2.6.0",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "pandoc",
+      "Name": "Pandoc",
+      "Version": "3.7.0.2",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "pnpm",
+      "Name": "Pnpm",
+      "Version": "10.15.1",
+      "Source": "npm",
+      "ManagerName": "Npm"
+    },
+    {
+      "Id": "prettier",
+      "Name": "Prettier",
+      "Version": "3.6.2",
+      "Source": "npm",
+      "ManagerName": "Npm"
+    },
+    {
+      "Id": "putty",
+      "Name": "Putty",
+      "Version": "0.83.0",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "putty.portable",
+      "Name": "Putty",
+      "Version": "0.83.0",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "pyenv",
+      "Name": "Pyenv",
+      "Version": "3.1.1",
+      "Source": "main",
+      "ManagerName": "Scoop"
+    },
+    {
+      "Id": "qmmp",
+      "Name": "Qmmp",
+      "Version": "2.2.2",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "repoz",
+      "Name": "Repoz",
+      "Version": "5.5.0",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "scoop-search",
+      "Name": "Scoop Search",
+      "Version": "2.1.0",
+      "Source": "main",
+      "ManagerName": "Scoop"
+    },
+    {
+      "Id": "songbird",
+      "Name": "Songbird",
+      "Version": "1.0.7",
+      "Source": "npm",
+      "ManagerName": "Npm"
+    },
+    {
+      "Id": "spacedesk-server",
+      "Name": "Spacedesk Server",
+      "Version": "2.2.4",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "steam-rom-manager",
+      "Name": "Steam Rom Manager",
+      "Version": "2.5.29",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "stnkl.EverythingToolbar",
+      "Name": "EverythingToolbar",
+      "Version": "2.0.3.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "strawberrymusicplayer",
+      "Name": "Strawberrymusicplayer",
+      "Version": "1.2.11",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "telegram",
+      "Name": "Telegram",
+      "Version": "6.0.2",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "telegram.install",
+      "Name": "Telegram",
+      "Version": "6.0.2",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "timminator.VideOCR.GPU",
+      "Name": "VideOCR",
+      "Version": "1.3.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "typescript",
+      "Name": "Typescript",
+      "Version": "5.9.2",
+      "Source": "npm",
+      "ManagerName": "Npm"
+    },
+    {
+      "Id": "vcredist140",
+      "Name": "Vcredist140",
+      "Version": "14.44.35211",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "vcredist2010",
+      "Name": "Vcredist2010",
+      "Version": "10.0.40219.32503",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "webview2-runtime",
+      "Name": "Webview2 Runtime",
+      "Version": "139.0.3405.125",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "winbox",
+      "Name": "Winbox",
+      "Version": "3.42.26052025",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "windhawk",
+      "Name": "Windhawk",
+      "Version": "1.6.1",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "winget-cli",
+      "Name": "Winget Cli",
+      "Version": "1.11.400",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "winget.powershell",
+      "Name": "Winget.powershell",
+      "Version": "1.11.440",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "wsl2-distro-manager",
+      "Name": "Wsl2 Distro Manager",
+      "Version": "1.8.17",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    }
+  ],
+  "incompatible_packages_info": "Incompatible packages cannot be installed from UniGetUI, either because they came from a local source (for example Local PC) or because the package manager was unavailable. Nevertheless, they have been listed here for logging purposes.",
+  "incompatible_packages": [
+    {
+      "Id": "0bdceb98-4c09-5edd-abe2-ba063d57383d",
+      "Name": "Wora 0.4.0-beta2",
+      "Version": "0.4.0-beta2",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "11413PtruceanBogdan.Wintoys_2.0.91.0_x64__ankwhmsh70gj6",
+      "Name": "Wintoys",
+      "Version": "2.0.91.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "21090PaddyXu.QuickLook_4.1.1.0_neutral__egxr34yet59cg",
+      "Name": "QuickLook",
+      "Version": "4.1.1.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "21a2371c-2d28-5f47-a543-36c103128385",
+      "Name": "elisi 1.4.5",
+      "Version": "1.4.5",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "2a266add-d0b3-5928-ae2f-ab80d1261c02",
+      "Name": "Crates 1.9.3-9e99f6c",
+      "Version": "1.9.3-9e99f6c",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "36696Dysperse.318114851B57C_1.3.0.0_x64__xp5h5635ea4w0",
+      "Name": "Dysperse",
+      "Version": "1.3.0.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "3uToolsV3_x64",
+      "Name": "3uTools",
+      "Version": "3.27.015",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "40459File-New-Project.EarTrumpet_2.3.0.0_x86__1sdd7yawvg6ne",
+      "Name": "EarTrumpet",
+      "Version": "2.3.0.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "51680krisdb2009.SuperLauncher_2.1.4.0_x64__c95qpqdnztmre",
+      "Name": "Super Launcher",
+      "Version": "2.1.4.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "5c2e28dc-7316-5105-a419-a73d892c56b8",
+      "Name": "Heptabase 1.70.1",
+      "Version": "1.70.1",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "5dbd18ce0e10571e25bad447d32c7e66",
+      "Name": "Brite - Daily Planner",
+      "Version": "1.0",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "62269AlexShats.OneGameLauncher_1.9.10.0_x64__gghb1w55myjr2",
+      "Name": "One Game Launcher",
+      "Version": "1.9.10.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "62882DeepNotes.DeepNotes-VisualNote-taking_1.0.25.0_x64__jeh9hajk4jex0",
+      "Name": "DeepNotes",
+      "Version": "1.0.25.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "8c80eacf-aecd-516c-b6c3-78c6e2b45e46",
+      "Name": "Twos 7.5.0",
+      "Version": "7.5.0",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "9932MartCliment.WingetUIWidgets_0.9.1.0_x64__g91dtg5srk15g",
+      "Name": "Widgets for UniGetUI",
+      "Version": "0.9.1.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "AMD_Chipset_IODrivers",
+      "Name": "AMD Chipset Software",
+      "Version": "6.05.16.221",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "AOMEI Partition Assistant_is1",
+      "Name": "AOMEI Partition Assistant Technician 10.8.2",
+      "Version": "10.8.2",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "ASUSAmbientHAL64_1.0.0.2_neutral__ecvjzhf6c4w7r",
+      "Name": "Armoury Crate",
+      "Version": "1.0.0.2",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "AUDT_25_3",
+      "Name": "Adobe Audition 2025",
+      "Version": "25.3",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "AceStream",
+      "Name": "Ace Stream Media 3.2.8",
+      "Version": "3.2.8",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "Adguard_is1",
+      "Name": "Adguard v7.20.3.4994",
+      "Version": "7.20.3.4994",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "AdobeAcrobatDCCoreApp_23.1.0.0_x64__pc75e8sa7ep4e",
+      "Name": "Adobe Acrobat",
+      "Version": "23.1.0.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "AdobeNotificationClient_7.0.2.14_x64__enpm4xejd91yc",
+      "Name": "Adobe Native Client",
+      "Version": "7.0.2.14",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "AntiMicroX",
+      "Name": "AntiMicroX",
+      "Version": "3.5.1",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "AppleInc.iCloud_15.4.210.0_x64__nzyj5cx40ttqa",
+      "Name": "iCloud",
+      "Version": "15.4.210.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Armoury Crate Service",
+      "Name": "Armoury Crate Service",
+      "Version": "6.2.11",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "B9ECED6F.ArmouryCrate_6.2.11.0_x64__qmba6cd70vzyy",
+      "Name": "Armoury Crate",
+      "Version": "6.2.11.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "BMIDI_Driver1.0.0.11_is1",
+      "Name": "Bome Virtual MIDI 2.1.0.44",
+      "Version": "Unknown",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "BandizipShellext2_1.0.0.2_x64__y8jx0atjth7em",
+      "Name": "ShellBandizip",
+      "Version": "1.0.0.2",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Bandizip_is1",
+      "Name": "Bandizip v7.39",
+      "Version": "7.39",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "BriteTechnologiesLLC.Brite-DailyPlanner_1.0.1.0_neutral__7wsb80j6yrwfw",
+      "Name": "Brite - Daily Planner",
+      "Version": "1.0.1.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "CCleaner_is1",
+      "Name": "CCleaner v6.37.11523",
+      "Version": "6.37.11523",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "DeepL",
+      "Name": "DeepL",
+      "Version": "3.1.13276",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "DirectX End-User Runtime",
+      "Name": "Microsoft DirectX End-User Runtime",
+      "Version": "9.29.1974.2",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "DirectX Managed Assemblies",
+      "Name": "Microsoft DirectX Managed Assemblies",
+      "Version": "1.1",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "E3689C79-2689-4D37-AAE0-9AE6A6C6E129_is1",
+      "Name": "WishPlayer Version 0.1.6",
+      "Version": "0.1.6",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "Ember Media Manager",
+      "Name": "Ember Media Manager",
+      "Version": "Unknown",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "Everything",
+      "Name": "Everything 1.4.1.1028 (x64)",
+      "Version": "1.4.1.1028",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "Exafunction.Windsurf_1.0.0.0_neutral__0n95xng0sqqp2",
+      "Name": "Windsurf",
+      "Version": "1.0.0.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "FwUpdateManager",
+      "Name": "FirmwareUpdateManager",
+      "Version": "1.0.1.0",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "GOMAudio",
+      "Name": "GOM Audio",
+      "Version": "2.2.28.0",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "GOMPlayer\u002B2024",
+      "Name": "GOM Player\u002B 2024",
+      "Version": "24.0.6.12805",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "GitBook_Editor",
+      "Name": "GitBook Editor",
+      "Version": "7.0.12",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "Goversoft.PrivaZer_1.0.5.0_neutral__ps1j8khqkbvfa",
+      "Name": "PrivaZer",
+      "Version": "1.0.5.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "HWiNFO_is1",
+      "Name": "HWiNFO 8.30",
+      "Version": "8.30",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "ImageMagick 7.1.1 Q16-HDRI (64-bit)_is1",
+      "Name": "ImageMagick 7.1.1-44 Q16-HDRI (64-bit) (2025-02-22)",
+      "Version": "7.1.1.44",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "JAMSoftware.TreeSizeContextMenu_2.0.0.0_x64__w54gjky5rxhza",
+      "Name": "JAMSoftware.TreeSizeContextMenu",
+      "Version": "2.0.0.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "KBRG_15_1_1",
+      "Name": "Adobe Bridge 2025",
+      "Version": "15.1.1",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "Luminant Music",
+      "Name": "Luminant Music",
+      "Version": "2.3.2",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "Media Center 34 (64-bit)",
+      "Name": "JRiver Media Center 34 (64-bit)",
+      "Version": "34",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "MemClean",
+      "Name": "Memory Cleaner 2.72",
+      "Version": "2.72",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "Microsoft.ApplicationCompatibilityEnhancements_1.2401.10.0_x64__8wekyb3d8bbwe",
+      "Name": "Verbesserungen an der Windows-Anwendungskompatibilit\u00E4t",
+      "Version": "1.2401.10.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.CommandPalette_0.4.2230.0_x64__8wekyb3d8bbwe",
+      "Name": "Befehlspalette",
+      "Version": "0.4.2230.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.DirectXRuntime_9.29.1974.0_x64__8wekyb3d8bbwe",
+      "Name": "DirectX",
+      "Version": "9.29.1974.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.DirectXRuntime_9.29.1974.0_x86__8wekyb3d8bbwe",
+      "Name": "DirectX",
+      "Version": "9.29.1974.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.Edge.GameAssist_1.0.3456.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft Edge-Spielhilfe",
+      "Version": "1.0.3456.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.GamingApp_2508.1001.27.0_x64__8wekyb3d8bbwe",
+      "Name": "Xbox",
+      "Version": "2508.1001.27.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.GamingServices_30.104.13001.0_x64__8wekyb3d8bbwe",
+      "Name": "Gaming Services",
+      "Version": "30.104.13001.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.Ink.Handwriting.Main.de-DE.1.0_0.850.1840.0_x64__8wekyb3d8bbwe",
+      "Name": "Ink.Handwriting.Main.de-DE.1.0",
+      "Version": "0.850.1840.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.Ink.Handwriting.de-DE.1.0_0.850.1840.0_x64__8wekyb3d8bbwe",
+      "Name": "Ink.Handwriting.de-DE.1.0",
+      "Version": "0.850.1840.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.Ink.Handwriting.de-DE.1.0_0.850.1840.0_x86__8wekyb3d8bbwe",
+      "Name": "Ink.Handwriting.de-DE.1.0",
+      "Version": "0.850.1840.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.MicrosoftEdge.Stable_139.0.3405.125_neutral__8wekyb3d8bbwe",
+      "Name": "Microsoft Edge",
+      "Version": "139.0.3405.125",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.NET.Native.Framework.2.2_2.2.29512.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft .Net Native Framework Package 2.2",
+      "Version": "2.2.29512.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.NET.Native.Framework.2.2_2.2.29512.0_x86__8wekyb3d8bbwe",
+      "Name": "Microsoft .Net Native Framework Package 2.2",
+      "Version": "2.2.29512.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.NET.Native.Runtime.2.2_2.2.28604.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft .Net Native Runtime Package 2.2",
+      "Version": "2.2.28604.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.NET.Native.Runtime.2.2_2.2.28604.0_x86__8wekyb3d8bbwe",
+      "Name": "Microsoft .Net Native Runtime Package 2.2",
+      "Version": "2.2.28604.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.Nina_1.0.1.0_neutral__8wekyb3d8bbwe",
+      "Name": "Nina",
+      "Version": "1.0.1.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.OneDriveSync_25149.803.3.0_neutral__8wekyb3d8bbwe",
+      "Name": "OneDrive",
+      "Version": "25149.803.3.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.Paint_11.2506.111.0_x64__8wekyb3d8bbwe",
+      "Name": "Paint",
+      "Version": "11.2506.111.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.Pender_1.0.251.0_x64__8wekyb3d8bbwe",
+      "Name": "Gears of War: Reloaded",
+      "Version": "1.0.251.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.PowerToys.FileLocksmithContextMenu_0.93.0.0_neutral__8wekyb3d8bbwe",
+      "Name": "PowerToys FileLocksmith Context Menu",
+      "Version": "0.93.0.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.PowerToys.ImageResizerContextMenu_0.93.0.0_neutral__8wekyb3d8bbwe",
+      "Name": "PowerToys ImageResizer Context Menu",
+      "Version": "0.93.0.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.PowerToys.PowerRenameContextMenu_0.93.0.0_neutral__8wekyb3d8bbwe",
+      "Name": "PowerToys PowerRename Context Menu",
+      "Version": "0.93.0.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.SecHealthUI_1000.27840.1000.0_x64__8wekyb3d8bbwe",
+      "Name": "Windows-Sicherheit",
+      "Version": "1000.27840.1000.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.Services.Store.Engagement_10.0.23012.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft Engagement Framework",
+      "Version": "10.0.23012.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.Services.Store.Engagement_10.0.23012.0_x86__8wekyb3d8bbwe",
+      "Name": "Microsoft Engagement Framework",
+      "Version": "10.0.23012.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.StorePurchaseApp_22506.1401.4.0_x64__8wekyb3d8bbwe",
+      "Name": "Host der Store-Benutzeroberfl\u00E4che",
+      "Version": "22506.1401.4.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.Todos_0.148.3611.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft To Do",
+      "Version": "0.148.3611.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.VCLibs.110.00.UWPDesktop_11.0.61135.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft Visual C\u002B\u002B 2012 UWP Desktop Runtime Package",
+      "Version": "11.0.61135.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.VCLibs.110.00.UWPDesktop_11.0.61135.0_x86__8wekyb3d8bbwe",
+      "Name": "Microsoft Visual C\u002B\u002B 2012 UWP Desktop Runtime Package",
+      "Version": "11.0.61135.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.VCLibs.120.00.UWPDesktop_12.0.40653.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft Visual C\u002B\u002B 2013 UWP Desktop Runtime Package",
+      "Version": "12.0.40653.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.VCLibs.120.00.UWPDesktop_12.0.40653.0_x86__8wekyb3d8bbwe",
+      "Name": "Microsoft Visual C\u002B\u002B 2013 UWP Desktop Runtime Package",
+      "Version": "12.0.40653.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.VCLibs.140.00_14.0.33519.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft Visual C\u002B\u002B 2015 UWP Runtime Package",
+      "Version": "14.0.33519.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.VCLibs.140.00_14.0.33519.0_x86__8wekyb3d8bbwe",
+      "Name": "Microsoft Visual C\u002B\u002B 2015 UWP Runtime Package",
+      "Version": "14.0.33519.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.VerdanaPro_1.0.2.0_neutral__8wekyb3d8bbwe",
+      "Name": "Verdana Pro",
+      "Version": "1.0.2.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.WidgetsPlatformRuntime_1.6.14.0_x64__8wekyb3d8bbwe",
+      "Name": "Widgets Platform Runtime",
+      "Version": "1.6.14.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.WinAppRuntime.DDLM.7000.522.1444.0-x6_7000.522.1444.0_x64__8wekyb3d8bbwe",
+      "Name": "Windows App Runtime DDLM 7000.522.1444.0-x6",
+      "Version": "7000.522.1444.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.WinAppRuntime.DDLM.7000.522.1444.0-x8_7000.522.1444.0_x86__8wekyb3d8bbwe",
+      "Name": "Windows App Runtime DDLM 7000.522.1444.0-x8",
+      "Version": "7000.522.1444.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.Windows.Photos_2025.11070.8001.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft Fotos",
+      "Version": "2025.11070.8001.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.WindowsAppRuntime.1.2_2000.802.31.0_x64__8wekyb3d8bbwe",
+      "Name": "WindowsAppRuntime.1.2",
+      "Version": "2000.802.31.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.WindowsAppRuntime.1.2_2000.802.31.0_x86__8wekyb3d8bbwe",
+      "Name": "WindowsAppRuntime.1.2",
+      "Version": "2000.802.31.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.WindowsAppRuntime.1.5_5001.373.1736.0_x64__8wekyb3d8bbwe",
+      "Name": "WindowsAppRuntime.1.5",
+      "Version": "5001.373.1736.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.WindowsAppRuntime.1.5_5001.373.1736.0_x86__8wekyb3d8bbwe",
+      "Name": "WindowsAppRuntime.1.5",
+      "Version": "5001.373.1736.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.WindowsAppRuntime.1.6_6000.519.329.0_x64__8wekyb3d8bbwe",
+      "Name": "WindowsAppRuntime.1.6",
+      "Version": "6000.519.329.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.WindowsAppRuntime.1.6_6000.519.329.0_x86__8wekyb3d8bbwe",
+      "Name": "WindowsAppRuntime.1.6",
+      "Version": "6000.519.329.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.WindowsAppRuntime.1.7_7000.522.1444.0_x64__8wekyb3d8bbwe",
+      "Name": "WindowsAppRuntime.1.7",
+      "Version": "7000.522.1444.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.WindowsAppRuntime.1.7_7000.522.1444.0_x86__8wekyb3d8bbwe",
+      "Name": "WindowsAppRuntime.1.7",
+      "Version": "7000.522.1444.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.WindowsCalculator_11.2311.0.0_x64__8wekyb3d8bbwe",
+      "Name": "Windows-Rechner",
+      "Version": "11.2311.0.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.WindowsFeedbackHub_1.2506.12104.0_x64__8wekyb3d8bbwe",
+      "Name": "Feedback-Hub",
+      "Version": "1.2506.12104.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.WindowsNotepad_11.2507.26.0_x64__8wekyb3d8bbwe",
+      "Name": "Windows-Editor",
+      "Version": "11.2507.26.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.WindowsStore_22507.1401.7.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft Store",
+      "Version": "22507.1401.7.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.Winget.Source_2025.903.1544.23_neutral__8wekyb3d8bbwe",
+      "Name": "Windows Package Manager Source (winget) V2",
+      "Version": "2025.903.1544.23",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.Xbox.TCUI_1.24.10001.0_x64__8wekyb3d8bbwe",
+      "Name": "Xbox TCUI",
+      "Version": "1.24.10001.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.XboxGamingOverlay_7.325.7090.0_x64__8wekyb3d8bbwe",
+      "Name": "Game Bar",
+      "Version": "7.325.7090.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.XboxIdentityProvider_12.110.15002.0_x64__8wekyb3d8bbwe",
+      "Name": "Xbox Identity Provider",
+      "Version": "12.110.15002.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.XboxSpeechToTextOverlay_1.97.17002.0_x64__8wekyb3d8bbwe",
+      "Name": "Game Speech Window",
+      "Version": "1.97.17002.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MicrosoftCorporationII.QuickAssist_2.0.29.0_x64__8wekyb3d8bbwe",
+      "Name": "Remotehilfe",
+      "Version": "2.0.29.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MicrosoftCorporationII.WinAppRuntime.Main.1.7_7000.522.1444.0_x64__8wekyb3d8bbwe",
+      "Name": "WinAppRuntime.Main.1.7",
+      "Version": "7000.522.1444.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MicrosoftCorporationII.WinAppRuntime.Singleton_7000.522.1444.0_x64__8wekyb3d8bbwe",
+      "Name": "WinAppRuntime.Singleton",
+      "Version": "7000.522.1444.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MicrosoftCorporationII.WindowsSubsystemForLinux_2.5.10.0_x64__8wekyb3d8bbwe",
+      "Name": "Windows-Subsystem f\u00FCr Linux",
+      "Version": "2.5.10.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MicrosoftWindows.Client.WebExperience_525.22301.90.0_x64__cw5n1h2txyewy",
+      "Name": "Windows Web Experience Pack",
+      "Version": "525.22301.90.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MicrosoftWindows.CrossDevice_1.25081.52.0_x64__cw5n1h2txyewy",
+      "Name": "Ger\u00E4te\u00FCbergreifender Funktions-Host",
+      "Version": "1.25081.52.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "NVIDIACorp.NVIDIAControlPanel_8.1.968.0_x64__56jybvy8sckqj",
+      "Name": "NVIDIA Control Panel",
+      "Version": "8.1.968.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Native Instruments Controller Editor",
+      "Name": "Native Instruments Controller Editor",
+      "Version": "2.8.2.0",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "Native Instruments Maschine 3",
+      "Name": "Native Instruments Maschine 3",
+      "Version": "3.2.0.0",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "Native Instruments NIHostIntegrationAgent",
+      "Name": "Native Instruments NIHostIntegrationAgent",
+      "Version": "1.17.1.5",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "Newshosting",
+      "Name": "Newshosting",
+      "Version": "3.8.9",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "NotepadPlusPlus_1.0.0.0_neutral__7njy0v32s6xk6",
+      "Name": "Notepad\u002B\u002B",
+      "Version": "1.0.0.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "OpenAL",
+      "Name": "OpenAL",
+      "Version": "Unknown",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "PaisaPaisa",
+      "Name": "Paisa",
+      "Version": "0.6.6",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "Pioneer rekordbox 6.8.4",
+      "Name": "rekordbox 6.8.4 64bit",
+      "Version": "6.8.4.0001",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "PrivaZer",
+      "Name": "PrivaZer",
+      "Version": "4.0.110.0",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "ProPlusVolume - de-de",
+      "Name": "Microsoft Office Professional Plus 2016 - de-de",
+      "Version": "16.0.17932.20408",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "ProPlusVolume - en-us",
+      "Name": "Microsoft Office Professional Plus 2016 - en-us",
+      "Version": "16.0.17932.20408",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "Process Lasso_is1",
+      "Name": "Process Lasso v15.1.1.26",
+      "Version": "15.1.1.26",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "QuickInstaller_is1",
+      "Name": "QuickInstaller",
+      "Version": "0.4.9374.17299",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "Razer Axon_is1",
+      "Name": "Razer Axon",
+      "Version": "2.4.2.0",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "Razer Cortex_is1",
+      "Name": "Razer Cortex",
+      "Version": "11.3.22.0",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "Razer Synapse",
+      "Name": "Razer Synapse",
+      "Version": "4.0.503",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "Smart Game Booster_is1",
+      "Name": "Smart Game Booster 5.3",
+      "Version": "5.3.1",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "Stardock Start11",
+      "Name": "Stardock Start11",
+      "Version": "2.5.5.1",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "Steam App 2294630",
+      "Name": "WindowBlinds 11",
+      "Version": "Unknown",
+      "Source": "Steam"
+    },
+    {
+      "Id": "Steam App 967130",
+      "Name": "XWidget",
+      "Version": "Unknown",
+      "Source": "Steam"
+    },
+    {
+      "Id": "Strawberry",
+      "Name": "Strawberry Music Player",
+      "Version": "1.2.11",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "Subsonic",
+      "Name": "Subsonic",
+      "Version": "Unknown",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "WideAngleSoftware.WaveformMusicPlayer_1.12.3.0_x64__g1m2xpbebvsjp",
+      "Name": "Waveform Music Player",
+      "Version": "1.12.3.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "WinLaunch",
+      "Name": "WinLaunch",
+      "Version": "Unknown",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "WinRAR.ShellExtension_1.0.0.2_x64__d9ma7nkbkv4rp",
+      "Name": "WinRAR",
+      "Version": "1.0.0.2",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Xtreme Media Player",
+      "Name": "Xtreme Media Player 0.8.0",
+      "Version": "0.8.0",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "aaba2517-f59a-53d3-a069-b7c1c96d693b",
+      "Name": "Cluely",
+      "Version": "1.44.0",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "coverJuke_is1",
+      "Name": "coverJuke v1.56",
+      "Version": "Unknown",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "jv16 PowerTools",
+      "Name": "jv16 PowerTools",
+      "Version": "Unknown",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "tuneXplorer_is1",
+      "Name": "tuneXplorer 3.1.0.0",
+      "Version": "3.1.0.0",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "unchihugo.FluentFlyout_1.4.1.0_x64__69b7b6qge1ahj",
+      "Name": "FluentFlyout",
+      "Version": "1.4.1.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "winmixClickOnceHelper.exe",
+      "Name": "Windows Remix ClickOnce helper Uninstall",
+      "Version": "1.4",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "{008FE649-7F8D-4960-A94C-17D0960C15A8}",
+      "Name": "VMware Workstation",
+      "Version": "17.6.3",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "{021d69c3-d686-4a94-8fb5-fd1ee782fb14}",
+      "Name": "GameSDK Service",
+      "Version": "1.0.5.0",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "{09E0041D-63C3-46DA-8BAE-7C2A9B4B8007}_is1",
+      "Name": "Saber version 0.26.4",
+      "Version": "0.26.4",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "{110332C5-C3C7-4FED-B485-AC3C2ECE1DD1}_is1",
+      "Name": "Musify Version 4.3.0",
+      "Version": "4.3.0",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "{1A332E1D-AB9B-4129-8EE1-7D3B13027AEA}_is1",
+      "Name": "Polyverse Music Bundle Deal 2025.7",
+      "Version": "2025.7",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "{1D9CDC40-CF1A-4B7E-83D0-ONI538236702}_is1",
+      "Name": "Vu Player Pro v1.3.0.0",
+      "Version": "v1.3.0.0",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "{1E2EA04B-FCA7-457E-B6F4-F33E1858E859}",
+      "Name": "AURA lighting effect add-on",
+      "Version": "0.0.49",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "{1F1C2DFC-2D24-3E06-BCB8-725134ADF989}",
+      "Name": "Microsoft Visual C\u002B\u002B 2008 Redistributable - x86 9.0.30729.4148",
+      "Version": "9.0.30729.4148",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "{1F3381E5-D71D-4ED8-8B97-8BB137326D4A}_is1",
+      "Name": "Endlesss version 1.4.18.0",
+      "Version": "1.4.18.0",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "{26A24AE4-039D-4CA4-87B4-2F83218031F0}",
+      "Name": "Java 8 Update 31",
+      "Version": "8.0.310",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "{2825CD23-EB4F-4CF6-9E53-03D6C63EF9F5}",
+      "Name": "Format Factory",
+      "Version": "5.20.0.0",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "{2D87BFB6-C184-4A59-9BBE-3E20CE797631}",
+      "Name": "ROG Live Service",
+      "Version": "3.1.15.0",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "{339A6383-7862-46DA-8A9D-E84180EF9424}",
+      "Name": "ASUS Framework Service",
+      "Version": "4.2.4.4",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "{45e281f3-1414-47ea-bb64-4f50d50121f3}",
+      "Name": "BattlefieldTM 2042",
+      "Version": "1.0.78.48050",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "{4B6C7001-C7D6-3710-913E-5BC23FCE91E6}",
+      "Name": "Microsoft Visual C\u002B\u002B 2008 Redistributable - x64 9.0.30729.4148",
+      "Version": "9.0.30729.4148",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "{558409e4-71ad-4b5f-9db7-15e987d0e3aa}_is1",
+      "Name": "Mouse Controller version 1.11.3.0",
+      "Version": "1.11.3.0",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "{74893E29-30BB-4954-A571-DDBBAC0FF3D1}",
+      "Name": "Awesome Miner",
+      "Version": "11.2.0.0",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "{7EBD0E43-6AC0-4CA8-9990-00E50069AD29}",
+      "Name": "SlimDX Runtime .NET 4.0 x86 (January 2012)",
+      "Version": "2.0.13.43",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "{8B237DD3-A0BF-4AAA-B545-D9CC78579CD1}_is1",
+      "Name": "iZotope Music Production Suite Pro",
+      "Version": "2021.12",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "{90468FD2-CE3A-404D-9211-DC6E3F4576E4}_is1",
+      "Name": "AudioRanger 3.4.10",
+      "Version": "3.4.10",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "{9288CC5E-97C8-40CD-A139-D35715E302F0}",
+      "Name": "Easy File Organizer",
+      "Version": "3.4.1",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "{996274DF-FD40-4C33-ABD2-6B3549A1D562}",
+      "Name": "iCloud Outlook",
+      "Version": "15.4.0.210",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "{9D026C5A-F643-4F7E-97BF-0D973FA1D06A}",
+      "Name": "WinDirStat",
+      "Version": "2.2.2",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "{A8761B4B-A179-4469-99B7-FDFA94E551F9}",
+      "Name": "ASUS DriverHub",
+      "Version": "1.0.6.10",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_Display.Driver",
+      "Name": "NVIDIA Grafiktreiber 560.94",
+      "Version": "560.94",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_Display.NvApp",
+      "Name": "NVIDIA App 11.0.5.245",
+      "Version": "11.0.5.245",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_FrameViewSdk",
+      "Name": "NVIDIA FrameView SDK 1.5.11504.36206172",
+      "Version": "1.5.11504.36206172",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "{C5A4A164-4428-4931-B728-96EEF0FA3C44}",
+      "Name": "AURA lighting effect add-on x64",
+      "Version": "0.0.49",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "{E2D5A1F3-AB1E-4430-B8B4-64545F329EE9}",
+      "Name": "Keysticks",
+      "Version": "2.1.4",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "{E92483C7-34E3-49B5-BE12-4CC923A018E6}",
+      "Name": "Resonic Player Beta",
+      "Version": "0.9.3.1806",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "{ad8a2fa1-06e7-4b0d-927d-6e54b3d31028}",
+      "Name": "Microsoft Visual C\u002B\u002B 2005 Redistributable (x64)",
+      "Version": "8.0.61000",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "{bb9ee5ec-749d-429a-ad53-7c1a8d164e04}",
+      "Name": "AURA Service",
+      "Version": "3.08.52",
+      "Source": "Lokaler PC"
+    },
+    {
+      "Id": "{f7cf3d80-4881-423e-be5e-72fd5cecd9f7}_is1",
+      "Name": "Helium 17.2.198.0",
+      "Version": "17.2.198.0",
+      "Source": "Lokaler PC"
+    }
+  ]
+}
